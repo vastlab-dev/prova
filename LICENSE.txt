@@ -1,0 +1,4 @@
+Licence: CC BY-NC-SA
+
+Credit: 
+The present version of this ontology was developed by Achille Felicetti and Franco Niccolucci (ARIADNE RI AISBL and Fondazione PIN), building on previous preliminary and partial work by a wider team of researchers. Use is permitted as long as the present credit statement is visibly and totally included, and it is not for commercial purpose. If you reuse, remix, adapt, rename or anyhow build upon the material, in total or in part, you must license the result under identical terms, and include the present credit statement verbatim.
